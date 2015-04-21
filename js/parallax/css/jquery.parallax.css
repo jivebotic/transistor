@@ -1,0 +1,15 @@
+.parallax-viewport {
+    position: relative;
+    width: 800px;
+    height: 400px;
+    background-color: #aebcc9;
+    overflow: hidden;
+}
+.parallax-layer {
+    position: absolute;
+}
+.parallax-ul {
+    list-style-type: none;
+    padding: 0;
+    margin:0;
+}

@@ -1,0 +1,46 @@
+.navbar-brand {
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.jumbotron {
+    background-image: url("https://s3.amazonaws.com/uploads.hipchat.com/331154/2016348/2Zra4SwqZsAXDoq/jumbotron.jpg");
+    width: 100%;
+    background-size: cover;
+    min-height: 500px;
+    overflow: hidden;
+    position: relative;
+    border-bottom: solid #333333   15px;
+}
+
+.jumbotron img{
+    top: -500px;
+}
+
+#about img {
+    display: inline-block;
+    float: right;
+    margin-left: 30px;
+}
+
+#game-info {
+    padding: 20px;
+    background-color: #dddddd  ;
+    display: block;
+    position: relative;
+    min-height: 300px;
+}
+
+#game-reviews {
+    padding: 20px;
+    width: 400px;
+    display: block;
+    float: left
+}
+
+.review-blurb {
+    padding-bottom: 20px;
+}
+
+.score {
+    display: block;
+}
