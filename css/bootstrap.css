@@ -6253,6 +6253,7 @@ button.close {
   right: 15%;
   bottom: 20px;
   left: 15%;
+  font-size: 50px;
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
